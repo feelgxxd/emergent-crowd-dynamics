@@ -16,3 +16,5 @@
 
 Rather than scripting behavior, the system observes and visualizes how order and stress emerge from local interactions.
 This project is intentionally minimal and exploratory, designed as a visual thinking tool rather than a finished product.
+
+![GIF 19 01 2026 05-17-31](https://github.com/user-attachments/assets/b755c09a-c10b-476a-b519-8a0f7fa7e4f4)

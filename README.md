@@ -10,7 +10,7 @@
 - Color and radius encode speed and neighborhood density
 
 ## Controls
-- Left click – apply local repulsion force
+- Left click = apply local repulsion force
 - Passive mouse presence influences nearby agents
 
 
